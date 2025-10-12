@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Tiffany Lin, a 3rd year Actuarial Studies and Computer Science student at UNSW, with an expected graduation in December 2026.
+I'm Tiffany Lin, a 3rd year Actuarial Studies and Computer Science student at UNSW.
 
 ### 📚 About Me
 Throughout my academic journey I have gained experience to sharpen my analytical and technical mindset as well as passion for solving complex data problems. I'm especially interested in areas of Business Analytics and Engineering and Technology where I can apply my programming skills (Python, R, SQL) and experience in statistical modelling. I'm excited to collaborate across and contribute to Stryker's team to drive patient healthcare outcomes and grow within a fast paced, detail oriented environment.
