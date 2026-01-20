@@ -6,4 +6,4 @@ Throughout my academic journey I have gained experience to sharpen my analytical
 
 - 💡 I'm passionate about transforming complex data into actionable insights and building tools that solve real world problems
 - 🚧 I'm currently working on building a [Cafe Finder](https://github.com/tlin75/Cafe-Finder) web app to help students and locals discover nearby cafes
-- 🌱 I recently build a program which allows Discord bot to respond to commands in a messaging channel, check it out [here](https://github.com/tlin75/Discord-Bot)
+- 🖥️ I recently built **[Tiny Thrive](https://github.com/your-username/Tiny-Thrive)**, a pixel-styled desktop focus timer built with React and Electron, designed to help students stay productive with gentle reminders, timed breaks, and rotating color themes.
